@@ -1,5 +1,7 @@
 <?php
+
 namespace MyApp;
+
 class Group {
     private string $groupName;
     private array $students = [];
